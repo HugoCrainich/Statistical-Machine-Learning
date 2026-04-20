@@ -1,4 +1,4 @@
-Causal ML — Double Machine Learning for 401(k) Policy Evaluation
+## Causal ML — Double Machine Learning for 401(k) Policy Evaluation
 Objective: Apply Double Machine Learning to estimate the causal effect of 401(k) eligibility on household net financial assets, isolating the treatment effect from selection bias using flexible nonparametric nuisance learners.
 Methodology:
 
